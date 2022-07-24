@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-minimum-app",
-    "slug": "expo-minimum-app",
+    "name": "react-navigation-example-app",
+    "slug": "react-navigation-example-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
